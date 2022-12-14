@@ -4,7 +4,7 @@ This is my home page! My name is Nevien Udugama and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/ne246.github.io.
+My GitHub page is http://github.com/ne246
 
 ### CPSC 120
 
